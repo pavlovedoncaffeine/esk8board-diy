@@ -1,7 +1,10 @@
 # esk8board-diy
 https://www.electric-skateboard.builders/t/wiki-a-beginner-guide-to-diy-an-esk8/46844
+
 https://www.electric-skateboard.builders/t/beginners-guide-to-building-your-own-electric-skateboard-drivetrain/53
+
 https://www.instructables.com/id/DIY-Electric-Skateboard-1/
+
 https://practicalprojects.weebly.com/diy-electric-longboard.html
 
 
@@ -24,6 +27,9 @@ https://www.ebay.ca/itm/223026607762
 6 X M6 Allen Head Screw
 
 https://hobbyking.com/en_us/turnigy-aerodrive-sk3-6364-213kv-brushless-outrunner-motor.html
+
 https://hobbyking.com/en_us/turnigy-plush-100a-w-ubec-speed-controller.html
+
 https://hobbyking.com/en_us/turnigy-reaktor-250w-10a-1-6s-balance-charger.html
+
 https://hobbyking.com/en_us/xt90-s-anti-spark-connector-2pairs-bag.html
