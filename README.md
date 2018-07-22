@@ -33,3 +33,7 @@ https://hobbyking.com/en_us/turnigy-plush-100a-w-ubec-speed-controller.html
 https://hobbyking.com/en_us/turnigy-reaktor-250w-10a-1-6s-balance-charger.html
 
 https://hobbyking.com/en_us/xt90-s-anti-spark-connector-2pairs-bag.html
+
+
+How to get the arduino to work the ESC
+https://www.instructables.com/id/Control-Brushless-Motor-Using-Arduino/
